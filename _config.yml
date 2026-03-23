@@ -1,0 +1,8 @@
+minimal_mistakes_skin: default
+theme: minimal-mistakes-jekyll
+
+# Disable sidebar globally
+sidebar:
+  nav: ""
+  title: ""
+  description: ""
